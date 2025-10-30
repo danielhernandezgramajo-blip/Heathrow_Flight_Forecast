@@ -29,7 +29,7 @@ Residual diagnostics confirmed stable variance and normally distributed residual
 
 ## 📈 Results
 The model forecasts the next 14 days of flight arrivals with a stable confidence interval.  
-![Forecast Example](https://via.placeholder.com/800x400?text=Forecast+Graph)
+*(Forecast visualization shown in the notebook)*
 
 ---
 
