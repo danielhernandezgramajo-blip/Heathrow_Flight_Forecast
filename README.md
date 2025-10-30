@@ -1,6 +1,6 @@
-# ✈️ Heathrow Flight Forecast
+# ✈️ UK Flight Forecast
 
-This project analyzes flight data and uses an **ARIMA model** to forecast daily flight arrivals at **London Heathrow Airport**.  
+This project analyzes flight data and uses an **ARIMA model** to forecast daily flight arrivals at **UK Airports**.  
 The model predicts flight arrivals **two weeks ahead** based on the patterns observed in September 2023.
 
 ---
